@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LavenderOctopus
+- 👀 I’m interested in game dev and programming.
+- 🌱 I’m currently learning ITIM for network pen sec.
+- 📫 You can email me at lavenderoctopusdev@gmail.com or on twitter @LavenderOctoDev
