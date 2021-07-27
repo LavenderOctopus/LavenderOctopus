@@ -1,3 +1,3 @@
 <h2 class="text-center">Hi ✌️ I’m Lavender Octopus!<br><img src="https://img.itch.zone/aW1nLzY2MDM3NjIuZ2lm/original/Q2fTl%2F.gif" alt="Lavender Octopus" width="320" title="Lavender Octopus"></h2>
-<p class="text-center">I’m an indie game dev and digital artist.<strong><br></strong></p>
-<p class="text-center">I plan on posting a small finished project every 7 to 14 days starting in August. <br>I will be releasing all code and assets for these projects for personal and commercial use on the <a href="https://github.com/LavenderOctopus" target="_blank" rel="noopener noreferrer">Lavender Octopus GitHub.</a></p>
+<p class="text-center">I’m an indie game dev and digital artist.<br></p>
+<p class="text-center">I plan on posting a small finished project every 7 to 14 days starting in August. <br>I will be releasing all code and assets for these projects for personal and commercial use here on the Lavender Octopus GitHub.<br>You can find these projects compiled and ready to play over on the <a href="https://github.com/LavenderOctopus" target="_blank" rel="noopener noreferrer">Lavender Octopus Itch.io</a></p>
