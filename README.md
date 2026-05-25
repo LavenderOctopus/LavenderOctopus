@@ -4,10 +4,6 @@
 
 Welcome to the LavenderOctopus GitHub repository. Here, you'll find a collection of projects, code snippets, and resources developed and curated by myself. I hope you find something interesting and useful.
 
-Connect with me on social media:
-- Twitter: [@LavenderOctoDev](https://twitter.com/LavenderOctoDev)
-- Itch.IO: [LavenderOctopus](https://lavenderoctopus.itch.io/)
-
 ## Show Your Support
 
 If you find my work valuable and want to support me, consider buying me a coffee or starring this repository. Your encouragement keeps me motivated to create and share more!
